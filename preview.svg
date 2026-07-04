@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 168" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16">
+  <rect x="0" y="0" width="940" height="168" rx="12" fill="#282a36"/>
+  <circle cx="28" cy="26" r="6" fill="#ff5f56"/>
+  <circle cx="50" cy="26" r="6" fill="#ffbd2e"/>
+  <circle cx="72" cy="26" r="6" fill="#27c93f"/>
+
+  <text x="26" y="94" xml:space="preserve">
+    <tspan fill="#6272a4">5h:[</tspan><tspan fill="#50fa7b">▓▓▓</tspan><tspan fill="#6272a4">░░░░░░░]</tspan><tspan fill="#50fa7b"> 28%</tspan><tspan fill="#6272a4"> (2h10m) · 7d:[</tspan><tspan fill="#f1fa8c">▓▓▓▓▓▓▓</tspan><tspan fill="#6272a4">░░░]</tspan><tspan fill="#f1fa8c"> 66%</tspan><tspan fill="#6272a4"> (Wed 4:00 PM) · ctx:[</tspan><tspan fill="#ff5555">▓▓▓▓▓▓▓▓▓</tspan><tspan fill="#6272a4">░]</tspan><tspan fill="#ff5555"> 88%</tspan>
+  </text>
+
+  <text x="26" y="128" xml:space="preserve">
+    <tspan fill="#ffffff" font-weight="bold">Opus 4.8</tspan><tspan fill="#6272a4"> · </tspan><tspan fill="#6272a4">effort:</tspan><tspan fill="#f8f8f2">high</tspan><tspan fill="#6272a4"> · </tspan><tspan fill="#8be9fd">acme-web</tspan><tspan fill="#6272a4"> · </tspan><tspan fill="#50fa7b">+25</tspan><tspan fill="#6272a4">/</tspan><tspan fill="#ff5555">-1</tspan><tspan fill="#6272a4"> lines · </tspan><tspan fill="#ff79c6">thinking</tspan>
+  </text>
+</svg>
